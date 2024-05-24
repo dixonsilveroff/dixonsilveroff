@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/dixonsilveroff" target="blank"><img src="https://img.shields.io/twitter/follow/dixonsilveroff?logo=twitter&style=for-the-badge" alt="dixonsilveroff" /></a> </p>
 
-<a href="https://app.daily.dev/czarcodes"><img src="https://api.daily.dev/devcards/v2/V0fgOjs8YxRz6aVuN0H3j.png?type=wide&r=h8k" width="652" alt="Victor's Dev Card"/></a>
+<a href="https://app.daily.dev/czarcodes"><img src="./devcard.png" width="652" alt="Victor's Dev Card"/></a>
 
 - 🔭 I’m currently working on **my portfolio website**
 
