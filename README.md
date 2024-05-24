@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">A passionate web developer from Nigeria</h3>
-
+<a href="https://app.daily.dev/czarcodes"><img src="./devcard.png" width="652" alt="Victor's Dev Card"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dixonsilveroff&label=Profile%20views&color=0e75b6&style=flat" alt="dixonsilveroff" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dixonsilveroff" alt="dixonsilveroff" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/dixonsilveroff" target="blank"><img src="https://img.shields.io/twitter/follow/dixonsilveroff?logo=twitter&style=for-the-badge" alt="dixonsilveroff" /></a> </p>
-
-<a href="https://app.daily.dev/czarcodes"><img src="./devcard.png" width="652" alt="Victor's Dev Card"/></a>
 
 - 🔭 I’m currently working on **my portfolio website**
 
